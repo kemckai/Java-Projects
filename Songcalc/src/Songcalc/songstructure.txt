@@ -1,0 +1,385 @@
+IV       V        vi
+IV		I	
+vi	I	V	IV
+bVII	ii	I	
+I		IV	bIII
+bVI	IV	I	
+I	IV	V	bVII
+bVI	bIII	bVII	IV
+i	bIII	bVII	IV
+I	V	IV	iii
+I	bVII	IV	
+I	vi	IV	V
+I	IV	I	V
+I	bVII	IV	I
+I	bVII	IV	bVI
+i	bVI	V	
+I	v	bVII	I
+I	bVI	bIII	V
+i		bVI	bVII
+I	iii	ii	V
+I	vi	IV	I
+ii	V	I	IV
+I	vi	IV	V
+I	V	vi	IV
+bVI	bIII	bVII	i
+I	V	vi	IV
+I	vi	IV	V
+I	bVII	bIII	IV
+I	IV	ii	V
+I	V	vi	IV
+I	V	vi	IV
+I	V	IV	
+ii	vi	I	IV
+IV	V	I	vi
+I	vi	IV	V
+i	bVI	bVII	bIII
+i	bIII	bVII	IV
+i	iv	bVI	v
+I	V	vi	IV
+I	V	vi	IV
+I	ii	vi	IV
+bVI	iv	i	bVII
+IV	vi	V	
+bVI		bVII	i
+i	bIII	IV	bVI
+I	vi	IV	V
+i		bVII	bVI
+I	iii	vi	iv
+bIII	bVII	i	
+I	bVII	IV	
+bVI	v	i	
+I	V	vi	IV
+I	iii	vi	IV
+IV	I	V	vi
+I	III	IV	iv
+i	bVII	bVI	V
+I		bVII	IV
+IV		I	ii
+vi	II	V	I
+I	V	IV	
+I	bVII	IV	
+i	bIII	bVII	IV
+I	v	bVII	IV
+I	V	vi	IV
+i	bVI	bVII	V
+I	IV	V	IV
+IV	I	IV	vi
+IV	vi	IV	I
+vi	bVI	I	II
+I	IV	V	
+I	III	vi	IV
+I		bVII	IV
+I	bVII	IV	bVI
+I	bVII	IV	bIII
+i	bVII	bIII	bVI
+I	V	bVII	IV
+IV	V	I	vi
+bIII	IV	I	
+IV		I	
+bVI	bVII	i	v
+I		vi	
+I		IV	
+I		bVII	IV
+I	IV	V	IV
+i	bVII	bVI	
+i	bVII	iv	i
+I	V	vi	IV
+i	bVI	bIII	iv
+	i	bVI	bVII
+I		IV	I
+i		bVI	IV
+I		IV	
+I	V	vi	IV
+i	bIII	bVII	i
+I	IV	V	
+I	ii	IV	V
+IV		I	
+i	v	bVI	bIII
+i	bIII	bVII	iv
+I		bVII	IV
+I	ii	iii	IV
+I	V	ii	
+I	V	IV	I
+I	IV	bVII	
+i	bIII	v	bVII
+I		IV	
+I	IV	V	
+i	bVI	i	
+I	vi	IV	V
+i	bVI	bIII	bVII
+i	bVI	bIII	bVII
+bVI	bIII	bVII	IV
+I	bVII	IV	bVI
+I	IV	ii	
+V		bVII	IV
+I	IV	ii	V
+I	ii	IV	V
+IV	bII	I	
+I		vi	
+i	bVI	bVII	i
+I	V		IV
+iv	v	i	
+I	V	vi	IV
+I	V	vi	IV
+I	vi	IV	V
+I		V	
+IV	V	I	
+i		bVI	bVII
+IV	V	I	vi
+i	bIII	bVI	V
+i	bVI	bVII	
+I	V	ii	V
+ii		V	
+I		vi	
+i	bIII	bVI	V
+IV		I	
+I	IV	bVII	I
+bVI	bVII	I	
+i	bVI	bIII	bVII
+I	V	bVII	IV
+IV	ii	I	
+I	v	bVII	
+I	bIII	IV	I
+V	IV	I	
+IV	V	I	
+IV	V	I	
+ii	V	I	vi
+IV	V	I	III
+I	vi	IV	V
+I	bVII	IV	I
+I	V	vi	IV
+I	V	bVII	IV
+I		bVII	IV
+I		bVII	
+I	V	vi	IV
+I	V	vi	IV
+i		V	
+I	V	vi	IV
+I	V	vi	IV
+vi	IV	I	
+iv		bIII	bVII
+I	V	vi	IV
+I	bVII	IV	V
+bIII	bVII	i	
+i	bVI	bIII	bVII
+I	vi	iii	IV
+i	v	bVI	bIII
+i	bVI	bIII	bVII
+i	bVII	iv	
+I		bVI	bVII
+i	bVI	bIII	bVII
+vi	IV	I	
+I		IV	
+vi	V	I	IV
+i		bVI	
+I	V		I
+I	V	vi	IV
+I	IV	II	V
+i		bVII	
+IV	I	ii	III
+i	bVI	bIII	bVII
+i	V	bVII	IV
+i	bVII	IV	i
+I		bVII	IV
+I	V	vi	IV
+I	bVII	IV	I
+bVII	IV	I	
+I	IV	V	IV
+I	V	vi	IV
+IV	V	I	vi
+I	IV	V	IV
+vi	ii	V	I
+I	vi	IV	V
+I		IV	
+bVII		I	
+i	bIII	bVII	
+I		IV	
+IV	I	ii	
+i	bIII	bVI	
+bVI	bVII	i	bVII
+i	bVI	bIII	bVII
+i	V	bVI	bVII
+vi	V	IV	I
+v	ii	I	
+i	bVI	bVII	
+IV		I	
+IV	I	V	
+i	bIII	bVI	iv
+bVII	IV	I	
+I	IV	V	IV
+I		IV	
+i	bVII	v	IV
+i			bVII
+vi	V	IV	I
+i	bVII	bVI	IV
+i		bVI	iv
+I		V	
+i		bIII	bVII
+I	V	IV	
+I		ii	IV
+I		IV	I
+i		bVI	V
+I	bVII	IV	I
+I	iii	vi	IV
+I		IV	
+bVI	bVII	I	
+I	IV	V	IV
+I	IV	V	I
+bIII	IV	I	
+I	IV	ii	IV
+I	vi	V	IV
+i		bIII	bVII
+bVI	bVII	I	
+bIII	bVII	I	
+bVI	iv	i	
+bVII	IV	I	
+IV	iii	ii	I
+i		bIII	bVII
+i		bVI	bVII
+I	V	I	IV
+bVI	bVII	i	V
+bVII	IV	I	
+I		ii	
+bVII	IV	I	
+i	bVII	bVI	
+i	bVII	bVI	
+IV	V	I	II
+I	bVII	IV	
+I		bVI	
+i	v	bVII	v
+i	bIII	bVII	iv
+I	iii	vi	IV
+i		bVI	
+I		IV	bVII
+i	iv	bVI	V
+I	IV	I	vi
+I	vi	IV	I
+v	iv	bIII	i
+I		IV	V
+I		IV	V
+I	VI	vi	I
+vi	IV	I	
+I	iii	vi	V
+I	V	vi	IV
+I		vi	
+I		IV	
+I	V	vi	IV
+I	ii	iii	IV
+bVI	bVII	i	
+i	bIII	bVII	iv
+i		v	
+I		IV	
+I	bVII	IV	I
+I	IV	V	
+I		IV	
+vi	II	V	I
+i	V	bVII	V
+i		bIII	
+i	bVII	bVI	V
+ii	V	I	IV
+i	bIII	iv	V
+i	bVI	bVII	bVI
+I	bVII	IV	bVI
+I	IV	V	I
+I	IV	vi	IV
+I	iii	IV	V
+i		IV	
+I		IV	
+i		bVI	
+i		bVI	
+I	V	IV	V
+i	bVII	bVI	bVII
+i		bVI	
+i	bVII	bVI	
+I	bVII	IV	I
+vi	ii	IV	I
+i	bIII	bVI	iv
+I		ii	
+I	v	bVII	IV
+I	V	vi	IV
+i		v	
+I			bVII
+I		bIII	IV
+I		IV	
+I	V	vi	IV
+I	IV	V	IV
+I	vi	IV	V
+I	V	bVII	IV
+I		IV	
+bIII	bVI	i	
+I	bVII	IV	I
+I		IV	bVI
+i	bVII	i	bVI
+i		bIII	
+I	ii	vi	IV
+i	bVI	bIII	bVI
+i		bIII	iv
+i		bVII	
+I	IV	bIII	bVI
+I		vi	
+I		IV	bVII
+I		iv	
+bVI	i	bVI	bIII
+I	V	vi	IV
+I	IV	V	
+I		IV	
+I		IV	
+I	V	ii	IV
+vi	IV	I	
+I	vi	IV	
+I			bVII
+i		bIII	
+I	IV	V	IV
+I	V	vi	IV
+I	III	vi	V
+i	bVI	bVII	i
+I	iii	IV	I
+I	V	IV	
+I		IV	
+I	V	vi	IV
+I		IV	
+V	I	ii	V
+IV	vi	I	
+I		IV	
+i	bVII	bVI	
+I	IV	V	IV
+I		IV	bVII
+i	bVI	bVII	bIII
+i	bVII	IV	bIII
+i		bVII	IV
+I		bIII	IV
+i		bVII	
+i		bVI	bVII
+i	bVI	bIII	bVII
+I		IV	
+I	vi	IV	V
+i	V	bVII	IV
+i		IV	
+I	vi	IV	V
+I		IV	
+i	bIII	bVI	V
+i	bIII	bVI	
+I	IV	I	V
+i	bVI	iv	V
+I		IV	
+vi	III	IV	I
+i		bVII	
+i	bVII	iv	
+I		IV	I
+i		bVII	
+I		bVII	
+i	bIII	iv	i
+i	bVII	bVI	
+i	bVII	bVI	bVII
+i	bVII	bVI	bVII
+I	vi	IV	V
+i	bVI	bVII	
+i	v		i
+I		IV	
+I	vi	iii	V
+i	bVII	bVI	bVII
+I	vi	IV	V
+I	IV	vi	V
+			
+			
